@@ -1,0 +1,6 @@
+{
+  "name": "Kesharwani Enterprises",
+  "description": "FMCG Wholesale GST billing, inventory & accounting software with Firebase Auth and real-time sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
